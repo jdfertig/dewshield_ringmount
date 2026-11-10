@@ -6,6 +6,12 @@ A parametric, 3D-printable two-piece dew shield ring that mounts a WandererCover
 
 Design, measurements and testing by John. OpenSCAD code written with assistance from Claude (Anthropic).
 
+## Project status: not maintained
+
+This design is shared as-is and **will not be updated or maintained**. Issues and pull requests may not be answered.
+
+You are welcome to **fork** the repository and adapt it for your own panel, scopes or printer, within the terms of the [license](LICENSE.md) (credit, no commercial use, same license for adaptations).
+
 ## Compatibility
 
 - **Tested only with the WandererCover V4-EC 190 mm.** It has not been tested with any other WandererCover size or model, or with any other flat panel.
